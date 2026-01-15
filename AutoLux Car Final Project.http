@@ -1,0 +1,6 @@
+@AutoLux_Car_Final_Project_HostAddress = http://localhost:5207
+
+GET {{AutoLux_Car_Final_Project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
