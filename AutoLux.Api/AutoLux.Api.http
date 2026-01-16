@@ -1,0 +1,6 @@
+@AutoLux.Api_HostAddress = http://localhost:5249
+
+GET {{AutoLux.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
