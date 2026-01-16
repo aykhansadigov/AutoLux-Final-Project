@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Final Project\AutoLux.Domain\bin\Debug\net8.0\AutoLux.Domain.deps.json
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Final Project\AutoLux.Domain\bin\Debug\net8.0\AutoLux.Domain.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Final Project\AutoLux.Domain\bin\Debug\net8.0\AutoLux.Domain.dll
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Final Project\AutoLux.Domain\bin\Debug\net8.0\AutoLux.Domain.pdb
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Final Project\AutoLux.Domain\obj\Debug\net8.0\AutoLux.Domain.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Final Project\AutoLux.Domain\obj\Debug\net8.0\AutoLux.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Final Project\AutoLux.Domain\obj\Debug\net8.0\AutoLux.Domain.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Final Project\AutoLux.Domain\obj\Debug\net8.0\AutoLux.Domain.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Final Project\AutoLux.Domain\obj\Debug\net8.0\AutoLux.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Final Project\AutoLux.Domain\obj\Debug\net8.0\AutoLux.Domain.dll
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Final Project\AutoLux.Domain\obj\Debug\net8.0\refint\AutoLux.Domain.dll
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Final Project\AutoLux.Domain\obj\Debug\net8.0\AutoLux.Domain.pdb
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Final Project\AutoLux.Domain\obj\Debug\net8.0\AutoLux.Domain.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Final Project\AutoLux.Domain\obj\Debug\net8.0\ref\AutoLux.Domain.dll
