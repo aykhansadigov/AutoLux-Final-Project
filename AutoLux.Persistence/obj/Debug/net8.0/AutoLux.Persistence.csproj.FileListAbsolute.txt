@@ -17,3 +17,23 @@ C:\Users\ASUS\OneDrive\Desktop\AutoLux Final Project\AutoLux.Persistence\obj\Deb
 C:\Users\ASUS\OneDrive\Desktop\AutoLux Final Project\AutoLux.Persistence\obj\Debug\net8.0\AutoLux.Persistence.pdb
 C:\Users\ASUS\OneDrive\Desktop\AutoLux Final Project\AutoLux.Persistence\obj\Debug\net8.0\AutoLux.Persistence.genruntimeconfig.cache
 C:\Users\ASUS\OneDrive\Desktop\AutoLux Final Project\AutoLux.Persistence\obj\Debug\net8.0\ref\AutoLux.Persistence.dll
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Car Final Project\AutoLux.Persistence\obj\Debug\net8.0\AutoLux.Persistence.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Car Final Project\AutoLux.Persistence\obj\Debug\net8.0\AutoLux.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Car Final Project\AutoLux.Persistence\obj\Debug\net8.0\AutoLux.Persistence.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Car Final Project\AutoLux.Persistence\obj\Debug\net8.0\AutoLux.Persistence.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Car Final Project\AutoLux.Persistence\obj\Debug\net8.0\AutoLux.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Car Final Project\AutoLux.Persistence\obj\Debug\net8.0\AutoLux.Persistence.sourcelink.json
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Car Final Project\AutoLux.Persistence\obj\Debug\net8.0\AutoLux.Persistence.dll
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Car Final Project\AutoLux.Persistence\obj\Debug\net8.0\refint\AutoLux.Persistence.dll
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Car Final Project\AutoLux.Persistence\obj\Debug\net8.0\AutoLux.Persistence.pdb
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Car Final Project\AutoLux.Persistence\bin\Debug\net8.0\AutoLux.Persistence.deps.json
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Car Final Project\AutoLux.Persistence\bin\Debug\net8.0\AutoLux.Persistence.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Car Final Project\AutoLux.Persistence\bin\Debug\net8.0\AutoLux.Persistence.dll
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Car Final Project\AutoLux.Persistence\bin\Debug\net8.0\AutoLux.Persistence.pdb
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Car Final Project\AutoLux.Persistence\bin\Debug\net8.0\AutoLux.Application.dll
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Car Final Project\AutoLux.Persistence\bin\Debug\net8.0\AutoLux.Domain.dll
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Car Final Project\AutoLux.Persistence\bin\Debug\net8.0\AutoLux.Application.pdb
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Car Final Project\AutoLux.Persistence\bin\Debug\net8.0\AutoLux.Domain.pdb
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Car Final Project\AutoLux.Persistence\obj\Debug\net8.0\AutoLux..B660B064.Up2Date
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Car Final Project\AutoLux.Persistence\obj\Debug\net8.0\AutoLux.Persistence.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Car Final Project\AutoLux.Persistence\obj\Debug\net8.0\ref\AutoLux.Persistence.dll

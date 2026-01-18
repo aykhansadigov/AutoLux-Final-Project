@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoLux.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+444b241cda8ee044d74ad1aa40f9691bdae2fb65")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af758594e1838307ba5363662a908c74c33f5fcf")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoLux.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoLux.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

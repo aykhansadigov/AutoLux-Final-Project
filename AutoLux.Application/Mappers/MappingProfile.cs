@@ -14,10 +14,7 @@ namespace AutoLux.Application.Mappers
         public MappingProfile()
         {
             // Car obyektini CarDto-ya çevirmək üçün
-            CreateMap<Car, CarDto>()
-                 .ForMember(dest => dest.Status, opt => opt.MapFrom(src =>
-                     src.IsForSale && src.IsForRent ? "Satış & Kirayə" :
-                     src.IsForSale ? "Satılır" : "Kirayə"));
+            CreateMap<Car, CarDto>().ReverseMap().ForMember(dest => dest.Status, opt => opt.MapFrom(src => src.IsForSale && src.IsForRent ? "Satış & Kirayə" : src.IsForSale ? "Satılır" : "Kirayə"));
         }
     }
 }

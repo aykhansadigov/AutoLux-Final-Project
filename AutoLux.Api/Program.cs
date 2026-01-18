@@ -3,6 +3,7 @@ using AutoLux.Application.Abstractions;
 using AutoLux.Persistence.Context;
 using AutoLux.Persistence.Repositories;
 using Microsoft.EntityFrameworkCore;
+using AutoMapper;
 
 namespace AutoLux.Api
 {

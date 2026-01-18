@@ -18,5 +18,6 @@ namespace AutoLux.Domain.Entities
         public string ImageUrl { get; set; }
         public bool IsForSale { get; set; }
         public bool IsForRent { get; set; }
+        public object Status { get; set; }
     }
 }

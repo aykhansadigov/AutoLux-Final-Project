@@ -48,5 +48,5 @@ namespace AutoLux.Persistence.Context
             base.OnModelCreating(modelBuilder);
         }
     }
-    }
 }
+
