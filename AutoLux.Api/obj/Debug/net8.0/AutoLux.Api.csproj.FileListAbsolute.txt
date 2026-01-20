@@ -305,3 +305,4 @@ C:\Users\ASUS\OneDrive\Desktop\AutoLux Car Final Project\AutoLux.Api\obj\Debug\n
 C:\Users\ASUS\OneDrive\Desktop\AutoLux Car Final Project\AutoLux.Api\obj\Debug\net8.0\AutoLux..A0DA0C15.Up2Date
 C:\Users\ASUS\OneDrive\Desktop\AutoLux Car Final Project\AutoLux.Api\obj\Debug\net8.0\AutoLux.Api.genruntimeconfig.cache
 C:\Users\ASUS\OneDrive\Desktop\AutoLux Car Final Project\AutoLux.Api\obj\Debug\net8.0\ref\AutoLux.Api.dll
+C:\Users\ASUS\OneDrive\Desktop\AutoLux Car Final Project\AutoLux.Api\bin\Debug\net8.0\AutoLux.Api.staticwebassets.runtime.json

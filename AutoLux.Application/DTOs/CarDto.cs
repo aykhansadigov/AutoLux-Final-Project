@@ -17,8 +17,8 @@ namespace AutoLux.Application.DTOs
         public decimal Price { get; set; }
         [Range(1900, 2026, ErrorMessage = "İl düzgün deyil")]
         public int Year { get; set; }
-        public string Category { get; set; } 
-        public string ImageUrl { get; set; }
+        public string Category { get; set; }
+        public string ImageUrl { get; set; } = "/assets/car-1.jpg";
         public string Status { get; set; }
         public bool IsForSale { get; set; }
         public bool IsForRent { get; set; }
